@@ -16,7 +16,7 @@
 
 <resources>
 
-    <style name="Theme.DeviceDefault.Resolver" parent="Theme.DeviceDefault.ResolverCommon">
+    <!-- style name="Theme.DeviceDefault.Resolver" parent="Theme.DeviceDefault.ResolverCommon">
         <item name="colorBackgroundFloating">#ff202125</item>
     </style>
 
@@ -26,7 +26,7 @@
 
     <style name="Theme.DeviceDefault.Settings.Dialog" parent="Theme.DeviceDefault.Settings.DialogBase">
         <item name="colorBackgroundFloating">#ff202125</item>
-    </style>
+    </style -->
 
     <style name="Theme.DeviceDefault.System" parent="@*android:style/Theme.Material">
         <item name="android:windowTitleStyle">@*android:style/DialogWindowTitle.DeviceDefault</item>
